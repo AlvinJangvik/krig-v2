@@ -13,7 +13,7 @@ namespace Template
     class VisualBase
     {
         protected Texture2D tex;
-
+        // ja
         public virtual void Update()
         {
 
